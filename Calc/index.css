@@ -1,0 +1,359 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   margin: 0;
+   padding: 0;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Button1
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #F0F0F0;
+   color: #000000;
+   font-family: Arial;
+   font-size: 64px;
+}
+#B2
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B1
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B3
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B4
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B5
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#Button7
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #F0F0F0;
+   color: #000000;
+   font-family: Arial;
+   font-size: 64px;
+}
+#B8
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B7
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B9
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B6
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#B0
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #87CEEB;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#Bpoint
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #00FFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 64px;
+}
+#BPlus
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#BMinus
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#BMul
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#BDiv
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 48px;
+}
+#BSqrt
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 35px;
+}
+#BPersent
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 53px;
+}
+#BDivX
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 43px;
+}
+#BRavno
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #ADFF2F;
+   color: #000000;
+   font-family: Arial;
+   font-size: 53px;
+}
+#Bpm
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: Arial;
+   font-size: 35px;
+}
+#BC
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFA07A;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Button2
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFA07A;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Button3
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FF6347;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 48px;
+}
+#Bmc
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFE4B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Bmr
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFE4B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Bms
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFE4B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Bmplus
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFE4B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#Bmminus
+{
+   border: 7px #2F4F4F groove;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+   background-color: #FFE4B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 37px;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
